@@ -1,3 +1,5 @@
 # Video of the interactive interface operation
 
-To be added...
+![Video](./imgs/Screenshot_of_video.png)
+
+Download the demo from the 'video' file.
