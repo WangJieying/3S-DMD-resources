@@ -127,7 +127,7 @@ void setConfig(Config c) {
   int execute_skeleton_pipeline(FIELD<float>* im, float thresholdTime) { 
     int clear_color;
     int Island_thresholdTime = (thresholdTime == 1) ? 1 : (thresholdTime + 3);
-    SMfield = nullptr;//run the original SDMD method ( = SDMD_vec)
+    //SMfield = nullptr;//run the original SDMD method ( = SDMD_vec)
     Image* il = new Image(im, islandThreshold * Island_thresholdTime, layerThreshold/(thresholdTime), DistinguishableInterval, SMfield);
      
     il->removeIslands();
