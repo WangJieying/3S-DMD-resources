@@ -1,0 +1,12 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+  <file>images/Skel_icon.png</file>
+  <file>images/image_zoom_in_icon.png</file>
+  <file>images/image_zoom_out_icon.png</file>
+  <file>images/color_icon.png</file>  
+  <file>images/width_icon.png</file>
+  <file>images/clear_screen_icon.png</file>
+  <file>images/open_file_icon.png</file>
+  <file>images/ellipse_icon.png</file>
+</qresource>
+</RCC>
