@@ -1,0 +1,28 @@
+outputLevel=v
+colorspace = ycbcr
+layer_selection = cumulative
+#layer_selection = threshold
+# external compression algorithm 
+compression_method = zpaq
+# perform overlap pruning?
+overlap_pruning = false
+# allowed radius difference before pruning
+overlap_pruning_epsilon = .05
+encoding = traditional
+# perform bundling?
+bundle = false
+alpha = 1
+epsilon = 5
+outputFile = ../imShow/output.sir
+#########################
+# input image. Must be PGM or PPM 
+filename = ../../Image/type1/0097.ppm
+filenameSM = ../../SaliencyMap/type1/0097.pgm
+num_layers =  15
+islandThreshold =  0.01
+ssThreshold =  0.3
+SkeletonThreshold =  5
+distinguishable_interval =  8
+hausdorff =  0.0015
+adaptive =  1
+Thresholdtime =  2
