@@ -2,4 +2,4 @@
 
 ![Video](./imgs/Screenshot_of_video.png)
 
-Download the demo from the 'video' file.
+Download the demo from the [video](./video/demo.mp4) file.
