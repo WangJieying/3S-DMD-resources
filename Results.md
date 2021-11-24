@@ -99,17 +99,3 @@ Results shown below indicate that compared with DMD and SDMD, 3S-DMD method not 
         <td ><center><img src="./imgs/f12-3s">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 3S-DMD result, Q^{\mu} = 0.955, CR = 131.2.</center></td> 
     </tr>
 </table>
-
-
-### Example 8
-
-<table>
-    <tr>
-        <td ><center><img src="./imgs/0967.png"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Original image. </center></td>
-        <td ><center><img src="./imgs/kids-d">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; DMD result, Q^{\mu} = 0.943, CR = 46.3.</center></td> 
-    </tr>
-    <tr>
-        <td ><center><img src="./imgs/kids-s">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; SDMD result, Q^{\mu} = 0.939, CR = 84.3.</center></td> 
-        <td ><center><img src="./imgs/kids-3s">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 3S-DMD result, Q^{\mu} = 0.933, CR = 139.4.</center></td> 
-    </tr>
-</table>
